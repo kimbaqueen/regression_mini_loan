@@ -1,0 +1,13 @@
+name: regression-mini-loan
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pip
+  - plotly=5.10.0
+  - python=3.9
+  - scipy
+  - seaborn
